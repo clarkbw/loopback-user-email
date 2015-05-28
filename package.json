@@ -1,0 +1,25 @@
+{
+  "name": "loopback-user-email",
+  "version": "1.0.0",
+  "description": "Email templates for handling user management within the Strongloop Loopback framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "strongloop",
+    "loopback",
+    "email",
+    "nodemailer"
+  ],
+  "author": "Bryan Clark <clarkbw@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "^2.0.0-beta.1",
+    "loopback": "^2.18.0",
+    "loopback-datasource-juggler": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
