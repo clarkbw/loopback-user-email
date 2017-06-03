@@ -16,10 +16,10 @@
   "license": "ISC",
   "dependencies": {
     "email-templates": "^2.0.0-beta.1",
-    "loopback": "^2.18.0",
-    "loopback-datasource-juggler": "^2.29.1"
+    "loopback": "^3.8.0",
+    "loopback-datasource-juggler": "^3.9.1"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^3.4.2"
   }
 }
